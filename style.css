@@ -1,0 +1,32 @@
+body{
+	background-color: #EAF5FF;
+}
+
+
+.bg-light{
+	background-image: url("Assignmentimage.jpg");
+	height: 400px;
+	width: 100%;	
+	
+}
+
+.pass {
+	height: 205px;
+	width: 205px;
+	border-radius: 50%;
+	top: -120px;
+	border:  5px solid #fff;	
+}
+
+.profile_photo {
+	height: 195px;
+	width: 195px;
+	border-radius: 50%;
+}
+
+
+.about{
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	font-size: 25px;
+}
